@@ -70,7 +70,7 @@ if __name__ == '__main__':
 
 
 
-""" O arquivo add_books.py também está correto. Ele define funções para interagir diretamente com o banco de dados local usando SQLite. Aqui estão as funções que você definiu:
+""" Este arquivo define funções para interagir diretamente com o banco de dados local usando SQLite. Aqui estão as funções que você definiu:
 
 create_connection(): cria uma conexão com o banco de dados.
 add_book(conn, title, author, genre, pages): adiciona um livro ao banco de dados.
